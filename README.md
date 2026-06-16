@@ -1,2 +1,4 @@
+# VR Language Learning Unity Project
+
 6/15/2026:
-This is the VR Language Learning Project. 
+project loaded. 
